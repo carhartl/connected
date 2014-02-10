@@ -1,5 +1,5 @@
 require "connected/version"
+require "connected/connect"
 
 module Connected
-  # Your code goes here...
 end
