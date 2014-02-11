@@ -1,5 +1,8 @@
 # Connected
 
+[![Build Status](https://travis-ci.org/carhartl/connected.png?branch=master)](https://travis-ci.org/carhartl/connected)
+[![Code Climate](https://codeclimate.com/github/carhartl/connected.png)](https://codeclimate.com/github/carhartl/connected)
+
 TODO: Write a gem description
 
 ## Installation
